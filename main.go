@@ -1,0 +1,7 @@
+package Stopovers
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
